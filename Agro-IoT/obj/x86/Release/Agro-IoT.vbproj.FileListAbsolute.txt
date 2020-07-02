@@ -1,0 +1,25 @@
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Release\Agro-IoT.exe.manifest
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Release\Agro-IoT.application
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Release\Agro-IoT.exe
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Release\Agro-IoT.pdb
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Release\Agro-IoT.xml
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Release\Agro_IoT.Form1.resources
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Release\Agro_IoT.Resources.resources
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.vbproj.GenerateResource.Cache
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.TrustInfo.xml
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.exe.manifest
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.application
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.exe
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.xml
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.pdb
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\obj\x86\Release\Agro_IoT.Form1.resources
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\obj\x86\Release\Agro_IoT.Resources.resources
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.vbproj.GenerateResource.cache
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.vbprojAssemblyReference.cache
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\bin\Release\Agro-IoT.exe
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\bin\Release\Agro-IoT.pdb
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\bin\Release\Agro-IoT.xml
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.vbproj.CoreCompileInputs.cache
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.exe
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.xml
+D:\AplicacionesCreadas\Agro-IoT\Agro-IoT\obj\x86\Release\Agro-IoT.pdb

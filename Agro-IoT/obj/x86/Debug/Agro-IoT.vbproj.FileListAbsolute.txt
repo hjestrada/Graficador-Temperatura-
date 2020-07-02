@@ -1,0 +1,14 @@
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Debug\Agro-IoT.exe
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Debug\Agro-IoT.pdb
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Debug\Agro-IoT.xml
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Debug\Agro_IoT.Form1.resources
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Debug\Agro_IoT.Resources.resources
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Debug\Agro-IoT.vbproj.GenerateResource.Cache
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Debug\Agro-IoT.exe
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Debug\Agro-IoT.xml
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Debug\Agro-IoT.pdb
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Debug\Agro-IoT.exe.manifest
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\bin\Debug\Agro-IoT.application
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Debug\Agro-IoT.TrustInfo.xml
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Debug\Agro-IoT.exe.manifest
+C:\Users\GIRL-X\documents\visual studio 2010\Projects\Agro-IoT\Agro-IoT\obj\x86\Debug\Agro-IoT.application
